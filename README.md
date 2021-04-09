@@ -12,7 +12,7 @@ Our current recommender system Movie-Legit 1.0 has turned us into one of the lea
 
 ## Process 
 
-Taking our current data base of about 100,000 customers, we created an algorithm that iterates through our well established customer base and recommends movies based on previous movie ratings and how they relate to movies that a customer.
+Taking our current data base of about 100,000 ratings, we created an algorithm that iterates through our well established customer base and recommends movies based on previous movie ratings and how they relate to movies that a customer.
 
 
 Welcoming new users is a challenge that we haven't fully lived up to in the past. Sure Movies-Legit is a great recommender system for existing customers and the current algorithm has done a great job to cater to them. But we lack the capability to welcome new users quickly and without the hassle of rating a bunch of movies before getting good recommendations.  
