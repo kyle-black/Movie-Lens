@@ -10,6 +10,8 @@ Our vice president Skylar English gave us the task of trying to improve on his m
 1)  Improve on the current recommender system, to increase user trust and keep visitors coming back to our website.
 2)  Devise a way to recommend movies to brand new visitors and provide them with great selections that will keep them coming back to the Recommender System. 
 
+## more accurate predictions => better user experience => users recommend to friends => customer base grows
+
 
 ## Process 
 
