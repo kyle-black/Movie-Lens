@@ -6,7 +6,7 @@ Our current recommender system Movie-Legit 1.0 has turned us into one of the lea
 
 ## Objectives
 
-1)  Improve on the current Recommender System, to increase user trust and keep visitors coming back to our website.
+1)  Improve on the current recommender system, to increase user trust and keep visitors coming back to our website.
 2)  Devise a way to recommend movies to brand new visitors and provide them with great selections that will keep them coming back to the Recommender System. 
 
 
