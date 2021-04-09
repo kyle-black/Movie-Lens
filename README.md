@@ -20,3 +20,4 @@ Welcoming new users is a challenge that we haven't fully lived up to in the past
 
 Welcome to the 21st century of recommender systems... 
 
+![alt text](https://github.com/kyle-black/Movie-Lens/blob/main/Model%20Comparison%20large.png)
