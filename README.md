@@ -1,4 +1,4 @@
-### Movies-Legit 2.0
+### SkyeLabX
 
 ## Preface 
 Our team of data scientists working at Movies Legit are always looking for new innovations to push the company forward.
