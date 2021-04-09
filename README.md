@@ -2,7 +2,8 @@
 
 ## Preface 
 Our team of data scientists working at Movies Legit are always looking for new innovations to push the company forward.
-Our current recommender system Movie-Legit 1.0 has turned us into one of the leaders in the Movie Based Recommender Industry, but our competition is quickly catching up. We want to update our recommender system so small start-ups like Netflix and Amazon don't bypass our trusted recommendations and make our service obsolete.
+Our current recommender system Movie-Legit 1.0 has turned us into one of the leaders in the Movie Based Recommender Industry, but our competition is quickly catching up. 
+Our vice president Skylar English gave us the task of trying to improve on his model. We want to update our recommender system so small start-ups like Netflix and Amazon don't bypass our trusted recommendations and make our service obsolete.
 
 ## Objectives
 
