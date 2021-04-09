@@ -15,8 +15,8 @@ Our current reccomender system Movie-Legit 1.0 has turned us into one of the lea
 Taking our current data base of about 100,000 customers, we created an algorithm that iterates through our well established customer base and reccomends movies based on previous movie ratings and how they relate to movies that a customer. This new algorthim is more math intensive but will provide movie results in the same time Movies-Legit 1.0.
 
 
-Taking on New Customers is a challegne that we haven't fully lived up to in the past. Sure Movies-Legit is a great reccomender system for existing customers and the current algorithm has done a great job to cater to existing customers. But we lack the capabilities to welcome new users, a quick way to get the movie a new customer wants without having to rate a bunch of new movies. 
+Taking on New Customers is a challenge that we haven't fully lived up to in the past. Sure Movies-Legit is a great reccomender system for existing customers and the current algorithm has done a great job to cater to existing customers. But we lack the capabilty to welcome new users quickly and without the hassle of rating a bunch of movies before getting good reccomendations.  
 
 
-We think this will bring our company into the 21 century of reccomnder system. 
+Welcome to the 21st century of reccomnder systems... 
 
